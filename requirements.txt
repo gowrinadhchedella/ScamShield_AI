@@ -1,0 +1,7 @@
+streamlit
+google-genai
+langchain
+langchain-community
+langgraph
+faiss-cpu
+scikit-learn
